@@ -7,6 +7,7 @@ public class SumOfNNaturalNumbers {
         int n = Scan.nextInt();
         int result = findSum(n);
         System.out.println("The sum of n Natural number is "+ result);
+        Scan.close();
 
     }
 
