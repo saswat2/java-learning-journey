@@ -26,7 +26,7 @@ public class InheritanceExample02 {
         emp.displayPerson();
 
         //Child class method
-        emp.displayEmp();g
+        emp.displayEmp();
 
     }
 }
