@@ -1,8 +1,8 @@
-class Rectangle {
+class Rectangle01{
     int lenght ;
     int width ;
 
-    Rectangle(int lenght, int width){
+    Rectangle01(int lenght, int width){
         this.lenght = lenght;
         this.width = width;
 
@@ -25,7 +25,7 @@ class Rectangle {
 public class RectangleDemo {
     public static void main(String[] args) {
 
-        Rectangle r = new Rectangle(10, 5);
+        Rectangle01 r = new Rectangle01(10, 5);
 
         r.display();
     }
